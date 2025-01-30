@@ -19,29 +19,13 @@ My interests include **compilers**, **web applications**, and exploring the dept
 
 ## 🚀 Projects I'm Proud Of
 
-
+［dap - compiler](https://github.com/Napbad/dap)
 ---
 
 ## 🌟 GitHub Stats
 
 ![Napbad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Napbad&show_icons=true&theme=radical)
 
-<div>
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes rotate {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-    .gear {
-      animation: rotate 5s linear infinite;
-      transform-origin: center;
-    }
-  </style>
-  <circle cx="100" cy="100" r="50" fill="none" stroke="#007396" stroke-width="10" />
-  <path class="gear" d="M100,50 L100,150 M50,100 L150,100 M75,75 L125,125 M75,125 L125,75" stroke="#00599C" stroke-width="10" />
-</svg>
-</div>
 
 ## 📫 How to Reach Me
 
