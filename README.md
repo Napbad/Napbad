@@ -19,7 +19,7 @@ My interests include **compilers**, **web applications**, and exploring the dept
 
 ## 🚀 Projects I'm Proud Of
 
-［dap - compiler](https://github.com/Napbad/dap)
+［dap-compiler](https://github.com/Napbad/dap)
 ---
 
 ## 🌟 GitHub Stats
